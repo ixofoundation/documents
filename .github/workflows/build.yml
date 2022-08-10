@@ -1,28 +1,23 @@
-name: buildDocs
-
+name: Build and Deploy Documentation
 on:
-  # trigger deployment on every push to main branch
   push:
-    branches: [main]
-  # trigger deployment manually
+    branches:
+      - main
   workflow_dispatch:
-
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.3.1
 
-      # run build script
       - name: Install and Build
         run: |
           npm install
           npm run build
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to Github Pages
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
-          branch: gh-pages # The branch the action should deploy to.
+          branch: gh-pages
           folder: .vuepress/dist
