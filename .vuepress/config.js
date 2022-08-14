@@ -118,23 +118,11 @@ module.exports = {
       },
     ],
     sidebar: {
-      "/": [
-        {
-          title: "Home",
-          children: [
-            "/overview",
-            "/develop",
-            "/validate",
-            "/create",
-          ],
-          collapsable: false,
-        },
-      ],
       "/overview": [
         {
           title: "Overview",
           children: [
-            '/overview',
+            '/overview/',
           ],
           collapsable: true,
         },
@@ -143,14 +131,14 @@ module.exports = {
         {
           title: 'Develop',
           children: [
-            '/develop',
+            '/develop/',
           ],
           collapsable: true,
         },
         {
           title: 'Infrastructure',
           children: [
-            '/infrastructure',
+            '/infrastructure/',
           ],
           collapsable: true,
         },
@@ -159,8 +147,9 @@ module.exports = {
         {
           title: 'Validate',
           children: [
-            '/validate/testnet',
-            '/validate/mainnet',
+            '/validate/',
+            '/validate/testnet/',
+            '/validate/mainnet/',
           ],
           collapsable: true,
         },
@@ -169,11 +158,23 @@ module.exports = {
         {
           title: 'Create',
           children: [
-            '/create',
+            '/create/',
           ],
           collapsable: true,
         },
       ],
+      "/": [
+        {
+          title: "Home",
+          children: [
+            "/overview/",
+            "/develop/",
+            "/validate/",
+            "/create/",
+          ],
+          collapsable: false,
+        },
+      ]
     },
   },
 };
