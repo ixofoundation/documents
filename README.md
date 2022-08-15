@@ -1,9 +1,10 @@
-<p align="center">
-  <a href="https://documents.ixo.foundation/" target="_blank">
-    <img width="180" src="https://documents.ixo.foundation/img/ixo-logo-dark.svg" alt="logo">
-  </a>
-</p>
+# ixo Documents
 
-## Documentation
-
-Find our documents at https://documents.ixo.foundation/.
+## Run localhost
+- Create a project in Visual Studio Code.
+- Clone this repo in VS Code.
+- Create your own branch in VS Code and switch to it.
+- Open the Terminal window in VS Code.
+- Type "npm install", enter, and wait for the command to complete without errors.
+- Type "npm run dev", enter, and wait for the command to complete without errors.
+- Follow the hyperlink to the localhost installation.
