@@ -36,6 +36,7 @@ module.exports = {
     [ 'tabs' ],
   ],
   head: [
+    
     [
       "link",
       {
@@ -63,7 +64,17 @@ module.exports = {
           "https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,500,700&display=swap",
       },
     ],
+
     [
+      "link",
+      {
+        rel: "stylesheet",
+        type: "text/css",
+        href:
+          "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap",
+      },
+    ],
+        [
       "link",
       {
         rel: "icon",
@@ -97,8 +108,8 @@ module.exports = {
   themeConfig: {
     sidebarDepth: 3,
     smoothScroll: true,
-    logo: "/img/ixo.webp",
-    logoDark: "/img/ixo.webp",
+    logo: "/img/ixo_logo.svg",
+    logoDark: "/img/ixo_logo.svg",
     lastUpdated: "Updated on",
     repo: "ixofoundation/documents",
     editLinks: true,
