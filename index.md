@@ -8,7 +8,7 @@ The starting point for learning about all things ixo - welcome!
 
 <div class="cards twoColumn">
   <a href="overview/" class="card">
-    <img src="img/book-open-reader-solid.svg" class="filter-icon"/>
+    <img src="img/book-open-solid.svg" class="filter-icon"/>
     <div class="title">
       Overview
     </div>
@@ -27,7 +27,7 @@ The starting point for learning about all things ixo - welcome!
   </a>
 
   <a href="validate/" class="card">
-    <img src="img/circle-check-solid.svg" class="filter-icon"/>
+    <img src="img/check-circle-solid.svg" class="filter-icon"/>
     <div class="title">
       Validate
     </div>
@@ -37,7 +37,7 @@ The starting point for learning about all things ixo - welcome!
   </a>
 
   <a href="integrate/" class="card">
-    <img src="img/code-pull-request-solid.svg" class="filter-icon"/>
+    <img src="img/cubes-solid.svg" class="filter-icon"/>
     <div class="title">
       Create
     </div>
@@ -52,7 +52,7 @@ The starting point for learning about all things ixo - welcome!
 
 <div class="cards threeColumn">
   <a href="https://www.ixo.world/" class="card lg" target="_blank">
-    <img src="img/ixoworld.png">
+    <img src="img/ixo_x.svg">
     <div class="title">
      ixo.world
     </div>
@@ -87,7 +87,7 @@ The starting point for learning about all things ixo - welcome!
 <br />
 <div class="cards threeColumn">
   <a href="https://blockscan.ixo.world/" class="card lg" target="_blank">
-    <img src="img/blockscan.png">
+    <img src="img/01_blockscan.png">
     <div class="title">
      Blockscan by ixoworld
     </div>
@@ -96,7 +96,7 @@ The starting point for learning about all things ixo - welcome!
     </div>
   </a>
   <a href="https://ping.pub/ixo" class="card lg" target="_blank">
-    <img src="img/pingpub.png">
+    <img src="img/02_ping.png">
     <div class="title">
      Ping.Pub
     </div>
@@ -105,7 +105,7 @@ The starting point for learning about all things ixo - welcome!
     </div>
   </a>
   <a href="https://explorer.ixo.earth/" class="card lg" target="_blank">
-    <img src="img/bigdipperdidx.png">
+    <img src="img/03_bigdipper.png">
     <div class="title">
      Big Dipper by DIDx
     </div>
@@ -117,7 +117,7 @@ The starting point for learning about all things ixo - welcome!
 <br />
 <div class="cards threeColumn">
   <a href="https://status.ixo.earth/" class="card lg" target="_blank">
-    <img src="img/statusixo.png">
+    <img src="img/04_ixostatus.png">
     <div class="title">
       ixo Status Page
     </div>
@@ -126,7 +126,7 @@ The starting point for learning about all things ixo - welcome!
     </div>
   </a>
   <a href="https://lcd-impacthub.keplr.app/" class="card lg" target="_blank">
-    <img src="img/lcdixo.png">
+    <img src="img/05_lcd.png">
     <div class="title">
      ixo LCD
     </div>
@@ -135,7 +135,7 @@ The starting point for learning about all things ixo - welcome!
     </div>
   </a>
   <a href="https://impacthub.ixo.world/rpc/" class="card lg" target="_blank">
-    <img src="img/rpcixo.png">
+    <img src="img/06_rpc.png">
     <div class="title">
      ixo RPC
     </div>
@@ -147,7 +147,7 @@ The starting point for learning about all things ixo - welcome!
 <br />
 <div class="cards threeColumn">
   <a href="https://atomscan.com/ixo/" class="card lg" target="_blank">
-    <img src="img/atomscan.png">
+    <img src="img/07_atomscan.png">
     <div class="title">
      ATOMScan
     </div>
@@ -156,7 +156,7 @@ The starting point for learning about all things ixo - welcome!
     </div>
   </a>
   <a href="https://launchpad.ixo.world/" class="card lg" target="_blank">
-    <img src="img/launchpadixo.png">
+    <img src="img/08_launchpad.png">
     <div class="title">
      ixo LaunchPad
     </div>
@@ -165,7 +165,7 @@ The starting point for learning about all things ixo - welcome!
     </div>
   </a>
     <a href="https://impacthub.ixo.world/rest/" class="card lg" target="_blank">
-    <img src="img/swagger.png">
+    <img src="img/09_rest.png">
     <div class="title">
      REST
     </div>
