@@ -6,6 +6,7 @@ title: Developers
 
 ## How to use Cosmos
 
+
 ## How to use the ixo APIs
 
 ## How to use the JS SDK
