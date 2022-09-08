@@ -2,47 +2,46 @@
 title: Home
 ---
 
-# Documentation
+# Welcome!
 
-The starting point for learning about all things ixo - welcome!
 
 <div class="cards twoColumn">
-  <a href="overview/" class="card">
-    <img src="img/book-open-solid.svg" class="filter-icon"/>
+  <a href="integrate/" class="card">
+    <img src="img/cubes-solid.svg" class="filter-icon"/>
     <div class="title">
-      Overview
+      Market Relayer
     </div>
     <div class="text">
-      The high-level overview of how ixo works.
+      You are an Impact Maker who wants to manage a Marketplace.
+    </div>
+  </a>
+
+  <a href="overview/" class="card">
+    <img src="img/code-solid.svg" class="filter-icon"/>
+    <div class="title">
+      Developers
+    </div>
+    <div class="text">
+      You are a Developer who wants to use the ixo SDKs to build your sustainable ReFi applications.
     </div>
   </a>
   <a href="develop/" class="card">
-    <img src="img/code-solid.svg" class="filter-icon"/>
+    <img src="img/check-circle-solid.svg" class="filter-icon"/>
     <div class="title">
-      Develop
+      Validators
     </div>
     <div class="text">
-      The way to get yourself set up and to start building.
+      You are a Validator who wants to secure the ixo network and earn IXO.
     </div>
   </a>
 
   <a href="validate/" class="card">
-    <img src="img/check-circle-solid.svg" class="filter-icon"/>
+    <img src="img/book-open-solid.svg" class="filter-icon"/>
     <div class="title">
-      Validate
+      Creators
     </div>
     <div class="text">
-      You can become one of the validators on ixo to earn IXO and to help secure the network.
-    </div>
-  </a>
-
-  <a href="integrate/" class="card">
-    <img src="img/cubes-solid.svg" class="filter-icon"/>
-    <div class="title">
-      Create
-    </div>
-    <div class="text">
-      Rapidly create your own dApp using the ixo JAMBO EarthPort Web Kit.
+      You are a Creator who wants to construct dApp experiences without the heavy lifting of blockchain SDKs.
     </div>
   </a>
 
@@ -54,28 +53,25 @@ The starting point for learning about all things ixo - welcome!
   <a href="https://www.ixo.world/" class="card lg" target="_blank">
     <img src="img/ixo_x.svg">
     <div class="title">
-     ixo.world
+      Our Website
     </div>
     <div class="text">
-      Read all about us.
     </div>
   </a>
 <a href="https://discord.gg/xFSdGBAw" class="card lg" target="_blank">
     <img src="img/discord.svg">
     <div class="title">
-     Discord
+      Our Community
     </div>
     <div class="text">
-      Join the ixo community on Discord.
     </div>
   </a>
   <a href="https://github.com/ixofoundation/documents" class="card lg" target="_blank">
     <img src="img/github.svg">
     <div class="title">
-    Suggestions or Issues?
+    Improve this Page
     </div>
     <div class="text">
-    Help us to improve this page on Github.
     </div>
   </a>
 </div>
