@@ -9,7 +9,7 @@ title: Home
   <a href="integrate/" class="card">
     <img src="img/cubes-solid.svg" class="filter-icon"/>
     <div class="title">
-      Market Relayer
+      Relayers
     </div>
     <div class="text">
       You are an Impact Maker who wants to manage a Marketplace.
