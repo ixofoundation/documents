@@ -118,10 +118,10 @@ module.exports = {
     docsDir: "",
     nav: [
       { text: 'Home', link: '/', },
-      { text: 'Overview', link: '/overview/', },
-      { text: 'Develop', link: '/develop/',},
-      { text: 'Validate', link: '/validate/',},
-      { text: 'Create', link: '/create/',},
+      { text: 'Relayers', link: '/relayers/', },
+      { text: 'Developers', link: '/developers/',},
+      { text: 'Validators', link: '/validators/',},
+      { text: 'Creators', link: '/creators/',},
       {
         text: "GitHub",
         link: "https://github.com/ixofoundation/documents",
@@ -129,47 +129,38 @@ module.exports = {
       },
     ],
     sidebar: {
-      "/overview": [
+      '/developers': [
         {
-          title: "Overview",
+          title: 'Developers',
           children: [
-            '/overview/',
+            '/developers/',
+          ],
+          collapsable: true,
+        }
+      ],
+      '/relayers': [
+        {
+          title: 'Relayers',
+          children: [
+            '/relayers/',
           ],
           collapsable: true,
         },
       ],
-      '/develop': [
+      '/validators': [
         {
-          title: 'Develop',
+          title: 'Validators',
           children: [
-            '/develop/',
-          ],
-          collapsable: true,
-        },
-        {
-          title: 'Infrastructure',
-          children: [
-            '/infrastructure/',
+            '/validators/',
           ],
           collapsable: true,
         },
       ],
-      '/validate': [
+      '/creators': [
         {
-          title: 'Validate',
+          title: 'Creators',
           children: [
-            '/validate/',
-            '/validate/testnet/',
-            '/validate/mainnet/',
-          ],
-          collapsable: true,
-        },
-      ],
-      '/create': [
-        {
-          title: 'Create',
-          children: [
-            '/create/',
+            '/creators/',
           ],
           collapsable: true,
         },
@@ -178,10 +169,10 @@ module.exports = {
         {
           title: "Home",
           children: [
-            "/overview/",
-            "/develop/",
-            "/validate/",
-            "/create/",
+            "/relayers/",
+            "/validators/",
+            "/developers/",
+            "/creators/",
           ],
           collapsable: false,
         },
