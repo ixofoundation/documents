@@ -6,7 +6,7 @@ title: Home
 
 
 <div class="cards twoColumn">
-  <a href="integrate/" class="card">
+  <a href="relayers/" class="card">
     <img src="img/cubes-solid.svg" class="filter-icon"/>
     <div class="title">
       Relayers
@@ -16,7 +16,7 @@ title: Home
     </div>
   </a>
 
-  <a href="overview/" class="card">
+  <a href="developers/" class="card">
     <img src="img/code-solid.svg" class="filter-icon"/>
     <div class="title">
       Developers
@@ -25,7 +25,7 @@ title: Home
       You are a Developer who wants to use the ixo SDKs to build your sustainable ReFi applications.
     </div>
   </a>
-  <a href="develop/" class="card">
+  <a href="validators/" class="card">
     <img src="img/check-circle-solid.svg" class="filter-icon"/>
     <div class="title">
       Validators
@@ -35,7 +35,7 @@ title: Home
     </div>
   </a>
 
-  <a href="validate/" class="card">
+  <a href="creators/" class="card">
     <img src="img/book-open-solid.svg" class="filter-icon"/>
     <div class="title">
       Creators
